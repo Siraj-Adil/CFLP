@@ -39,8 +39,8 @@ The project combines **mixed-integer linear programming (MILP), geospatial analy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Siraj-Adil/Capacitated-VRP-with-Split-Delivery.git
-cd Capacitated-VRP-with-Split-Delivery
+git clone https://github.com/Siraj-Adil/CFLP.git
+cd CFLP
 ```
 
 2. Install dependencies:
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 3. Run the notebook:
 
 ```bash
-jupyter notebook CFLP_India.ipynb
+jupyter notebook CFLP_Model.ipynb
 ```
 
 ## Data
